@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server and REMEMBER DOWNLOAD THE POINTCLOUD FILE AND PLACE IT IN PUBLIC:
 
 ```bash
 npm run dev
